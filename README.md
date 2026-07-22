@@ -5,8 +5,8 @@ This project is a recreation of the Babyville landing page design using only HTM
 
 I Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 Project Structure:
 index.html
